@@ -23,6 +23,7 @@ td, th {
   padding: 0.5rem;
   text-align: left;
 }
+
 tr:nth-child(even) {
   background: rgba(0, 0, 0, 0.05);
 }
