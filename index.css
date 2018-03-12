@@ -1,18 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Limelight');
+
 body {
-    background-color: powderblue;
+    background-color: #eaeaea;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 300%;
+  font-family: 'Limelight', cursive;
 }
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 td, th {
-  border: 1px solid #999;
+  border: 1px solid #2F4C80;
   padding: 0.5rem;
   text-align: left;
 }
 
 th {
-    font-weight: bold
+    font-weight: bold;
+    color: #bba665;
 }
