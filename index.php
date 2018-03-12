@@ -13,7 +13,7 @@ function runCache($url, $cacheFile){
     $now = time();
     $tempCache = "";
 
-      if(($now - $cacheTime) < 20){
+      if(($now - $cacheTime) < 600){
         echo(file_get_contents($cacheFile));
         return;
       }
