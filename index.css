@@ -49,11 +49,11 @@ body {
 #rent-rant-4{
   position: absolute;
   top: 13%;
-  left: 65%;
+  left: 64%;
   margin: 0;
   color: white;
   font-family: 'Limelight', cursive;
-  -webkit-transform: rotate(-50deg);
+  -webkit-transform: rotate(-40deg);
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #F50000, 0 0 30px #F50000, 0 0 40px #F50000, 0 0 55px #F50000, 0 0 75px #F50000;
 }
 #rent-rant-5{
